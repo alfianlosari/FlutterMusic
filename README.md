@@ -13,3 +13,7 @@ Flutter App that uses Apple Music API to display catalog of music
 - Put KEY inside the MovieService class
 - Build and Run
 
+## Try it
+
+- Google Play Store: https://play.google.com/store/apps/details?id=com.alfianlosari.musicpreviewdb
+
